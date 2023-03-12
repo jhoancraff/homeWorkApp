@@ -10,7 +10,7 @@
   "devDependencies": {
     "gh-pages": "^5.0.0"
   },
-  "homepage": "https://jhoancraff.github.io/homeWorkApp.",
+  "homepage": "git@github.com:jhoancraff/homeWorkApp.git",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
