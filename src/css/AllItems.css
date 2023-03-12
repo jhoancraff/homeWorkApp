@@ -1,0 +1,47 @@
+.list-homework__work{
+    
+    display: flex;
+    list-style: none;
+    padding: 10px;
+    border: 1px black solid;
+    background: linear-gradient(297deg, red 10% , purple);
+    font-size: 24px;
+    border-radius: 20px;
+    margin-top: 20px;
+
+}
+
+.img-check{
+    background-image: url('../css/icons/check.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: green;
+    width: 100px;
+    height: 30px;
+}
+.img-trash{
+    position: relative;
+    background-image: url('../css/icons/trash.svg');
+    height: 30px;
+    width: 30px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 90px;
+    top: 7px;
+}
+
+.icon-activate{
+    color: green;
+    font-size: 30px;
+}
+
+.list-text{
+    position: relative;
+    top: 5px;
+    margin-left: 20px;
+}
+
+.list-text__activate{
+    text-decoration: line-through;
+}
+

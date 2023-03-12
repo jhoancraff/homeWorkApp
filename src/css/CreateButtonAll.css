@@ -1,0 +1,23 @@
+.content-button{
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    text-align: right;
+
+}
+
+.button-create{
+    
+    width: 80px;
+    cursor: pointer;
+    padding: 10px;
+    margin-top: 300px;
+    font-size: 60px;
+    border-radius: 50px;
+    background-color: rgb(97, 122, 235);
+
+    transform: rotate(0);
+    transition: .3s ease;
+    z-index: 1;
+    
+}

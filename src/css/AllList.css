@@ -1,0 +1,17 @@
+.section-homework{
+    width: 100%;
+    margin-top: 20px;
+    color: white;
+    font-size: 25px;
+    
+}
+
+.list-homework{
+   
+    width: 100%;
+    max-width: 350px;
+    padding: 10px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    
+}
